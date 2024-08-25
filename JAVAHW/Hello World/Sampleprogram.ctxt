@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Sampleprogram
+comment1.params=
+comment1.target=Level()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Level\n
+comment10.params=newHRA
+comment10.target=void\ setHRA(int)
+comment11.params=newMedical
+comment11.target=void\ setMedical(int)
+comment2.params=
+comment2.target=int\ getLevelNumber()
+comment3.params=
+comment3.target=int\ getBasic()
+comment4.params=
+comment4.target=int\ getDA()
+comment5.params=
+comment5.target=int\ getHRA()
+comment6.params=
+comment6.target=int\ getMedical()
+comment7.params=newLevelNumber
+comment7.target=void\ setLevelNumber(int)
+comment8.params=newBasic
+comment8.target=void\ setBasic(int)
+comment9.params=newDA
+comment9.target=void\ setDA(int)
+numComments=12
